@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="logo" size="400.000000 382.402710" />
+    <ImageTarget name="lantai3K3" size="400.000000 778.918335" />
+    <ImageTarget name="lantai2K3" size="400.000000 778.918335" />
+    <ImageTarget name="lantai1K3" size="400.000000 778.918335" />
+    <ImageTarget name="kampus1l3" size="400.000000 483.794464" />
+    <ImageTarget name="kampus1l2" size="400.000000 649.891541" />
+    <ImageTarget name="kampus1l1" size="400.000000 799.101135" />
+  </Tracking>
+</QCARConfig>

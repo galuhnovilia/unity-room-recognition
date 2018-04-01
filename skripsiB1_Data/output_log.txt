@@ -1,0 +1,126 @@
+Initialize engine version: 5.5.2f1 (3829d7f588f3)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: AMD Radeon HD 6310 Graphics                 (ID=0x9802)
+    Vendor:   ATI
+    VRAM:     1165 MB
+    Driver:   8.812.1.3000
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\FOLDER GALUH\semester 8\SKRIPSI\vuforia\SkripsiB\skripsiB1_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\FOLDER GALUH\semester 8\SKRIPSI\vuforia\SkripsiB\skripsiB1_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\FOLDER GALUH\semester 8\SKRIPSI\vuforia\SkripsiB\skripsiB1_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\FOLDER GALUH\semester 8\SKRIPSI\vuforia\SkripsiB\skripsiB1_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\FOLDER GALUH\semester 8\SKRIPSI\vuforia\SkripsiB\skripsiB1_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\FOLDER GALUH\semester 8\SKRIPSI\vuforia\SkripsiB\skripsiB1_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\FOLDER GALUH\semester 8\SKRIPSI\vuforia\SkripsiB\skripsiB1_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\FOLDER GALUH\semester 8\SKRIPSI\vuforia\SkripsiB\skripsiB1_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\FOLDER GALUH\semester 8\SKRIPSI\vuforia\SkripsiB\skripsiB1_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading D:\FOLDER GALUH\semester 8\SKRIPSI\vuforia\SkripsiB\skripsiB1_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+Platform assembly: D:\FOLDER GALUH\semester 8\SKRIPSI\vuforia\SkripsiB\skripsiB1_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading D:\FOLDER GALUH\semester 8\SKRIPSI\vuforia\SkripsiB\skripsiB1_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+Platform assembly: D:\FOLDER GALUH\semester 8\SKRIPSI\vuforia\SkripsiB\skripsiB1_Data\Managed\UnityEngine.VR.dll (this message is harmless)
+Loading D:\FOLDER GALUH\semester 8\SKRIPSI\vuforia\SkripsiB\skripsiB1_Data\Managed\UnityEngine.VR.dll into Unity Child Domain
+Platform assembly: D:\FOLDER GALUH\semester 8\SKRIPSI\vuforia\SkripsiB\skripsiB1_Data\Managed\Vuforia.UnityExtensions.dll (this message is harmless)
+Loading D:\FOLDER GALUH\semester 8\SKRIPSI\vuforia\SkripsiB\skripsiB1_Data\Managed\Vuforia.UnityExtensions.dll into Unity Child Domain
+- Completed reload, in  0.467 seconds
+Platform assembly: D:\FOLDER GALUH\semester 8\SKRIPSI\vuforia\SkripsiB\skripsiB1_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\FOLDER GALUH\semester 8\SKRIPSI\vuforia\SkripsiB\skripsiB1_Data\Managed\System.dll (this message is harmless)
+OnLevelWasLoaded was found on VuforiaAbstractBehaviour
+This message has been deprecated and will be removed in a later version of Unity.
+Add a delegate to SceneManager.sceneLoaded instead to get notifications after scene loading has completed
+ 
+(Filename:  Line: 382)
+
+OnLevelWasLoaded was found on VuforiaBehaviour
+This message has been deprecated and will be removed in a later version of Unity.
+Add a delegate to SceneManager.sceneLoaded instead to get notifications after scene loading has completed
+ 
+(Filename:  Line: 382)
+
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+Compositor failed to initialize.Compositor failed to initialize.UnloadTime: 5.271873 ms
+Vuforia initialization successful
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 43998 -> priority: 1 
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 26.456211 ms
+Setting BehaviourComponentFactory
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+
+Unloading 30 unused Assets to reduce memory usage. Loaded Objects now: 78101.
+Total: 75.841866 ms (FindLiveObjects: 23.033981 ms CreateObjectMapping: 11.495506 ms MarkObjects: 20.165237 ms  DeleteObjects: 21.144573 ms)
+
+Trackable logo lost
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Trackable kampus1l1 lost
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Trackable kampus1l2 lost
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Could not initialize the tracker.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+SetHint
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+SetHint
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+SetHint
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Dataset skripsi could not be loaded and cannot be activated.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+StartVuforia
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Creating a Mono Camera Configuration (Check for reflection)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Trackable kampus1l3 lost
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+StopVuforia
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Trackable kampus1l2 lost
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Trackable kampus1l1 lost
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Trackable logo lost
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Trackable kampus1l3 lost
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
